@@ -1,5 +1,6 @@
-<div align='center'> 
 ### Hi there 👋
+
+<div align='center'> 
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Jigeol&nbsp;GitHub!&animation=twinkling&fontSize=40)
 

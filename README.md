@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <div align='center'> 
+### Hi there 👋
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Jigeol&nbsp;GitHub!&animation=twinkling&fontSize=40)
 
@@ -10,7 +9,7 @@
 
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Vue%2Ejs-4FC08D?style=flat-square&logo=Vue%2Ejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue-dot-js-4FC08D?style=flat-square&logo=Vue-dot-js&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
 
@@ -18,7 +17,7 @@
 <span>I’m currently learning ... ✏✏✏ </span>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/Next%2Ejs-000000?style=flat-square&logo=Next%2Ejs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-dot-js-000000?style=flat-square&logo=Next-dot-js&logoColor=white"/>
 
 
 ![jigeol's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiyaaany&show_icons=true)

@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Jigeol&nbsp;GitHub!&animation=twinkling&fontSize=40)
 
-🔭 I’m currently working on ...  
+🔭 I’m currently working on ...    
+  
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/React%20Router-CA4245?style=flat-square&logo=React%20Router&logoColor=white"/>

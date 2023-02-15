@@ -8,8 +8,8 @@
 
   ### Contact Me ! 🙋🏻‍♀️
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jiyaaany@gmail.com)](mailto:jiyaaany@gmail.com)
-<a href="https://velog.io/@jiyaaany"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
-<a href="https://jiyaaany.netlify.app/"><img src="https://img.shields.io/badge/Blog-0288D1?style=flat-square&logo=BookStack&logoColor=white"/></a>
+<!-- <a href="https://velog.io/@jiyaaany"><img src="https://img.shields.io/badge/velog-1DBF73?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="https://jiyaaany.netlify.app/"><img src="https://img.shields.io/badge/Blog-0288D1?style=flat-square&logo=BookStack&logoColor=white"/></a> -->
 </div>
 
 <!--
